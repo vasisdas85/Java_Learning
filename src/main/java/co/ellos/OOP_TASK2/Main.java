@@ -1,5 +1,7 @@
 package co.ellos.OOP_TASK2;
 
+import co.ellos.OOP_TASK2.impl.*;
+
 import java.util.Random;
 
 public class Main {

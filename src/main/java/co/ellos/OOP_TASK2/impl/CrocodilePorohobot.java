@@ -1,4 +1,6 @@
-package co.ellos.OOP_TASK2;
+package co.ellos.OOP_TASK2.impl;
+
+import co.ellos.OOP_TASK2.Creature;
 
 public class CrocodilePorohobot extends Crocodile{
     public CrocodilePorohobot(int a, String n, boolean ia) {

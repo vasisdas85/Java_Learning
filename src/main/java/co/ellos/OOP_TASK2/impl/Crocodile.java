@@ -1,4 +1,9 @@
-package co.ellos.OOP_TASK2;
+package co.ellos.OOP_TASK2.impl;
+
+import co.ellos.OOP_TASK2.Creature;
+import co.ellos.OOP_TASK2.Flyers;
+import co.ellos.OOP_TASK2.Natatorial;
+import co.ellos.OOP_TASK2.Walkers;
 
 public class Crocodile extends Creature implements Natatorial, Walkers {
     public Crocodile(int a, String n, boolean ia) {

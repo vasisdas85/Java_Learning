@@ -1,5 +1,7 @@
 package co.ellos.OOP_TASK2;
 
+import co.ellos.OOP_TASK2.impl.TwoLeggedWalkers;
+
 public class Printer {
 
     public void printAge(TwoLeggedWalkers[] dolboeby) {

@@ -1,6 +1,8 @@
-package co.ellos.OOP_TASK2;
+package co.ellos.OOP_TASK2.impl;
 
-import javax.jws.Oneway;
+import co.ellos.OOP_TASK2.Creature;
+import co.ellos.OOP_TASK2.Natatorial;
+import co.ellos.OOP_TASK2.Walkers;
 
 public class Boar extends Creature implements Walkers {
 

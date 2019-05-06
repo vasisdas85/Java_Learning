@@ -1,4 +1,7 @@
-package co.ellos.OOP_TASK2;
+package co.ellos.OOP_TASK2.impl;
+
+import co.ellos.OOP_TASK2.Creature;
+import co.ellos.OOP_TASK2.Flyers;
 
 public class Vulture extends Creature implements Flyers {
     public Vulture(int a, String n, boolean ia) {

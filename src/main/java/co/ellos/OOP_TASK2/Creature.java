@@ -1,9 +1,9 @@
 package co.ellos.OOP_TASK2;
 
 public abstract class Creature {
-    int age;
-    String name;
-    boolean isAlive;
+    public int age;
+    public String name;
+    public boolean isAlive;
     public String voice() {
         {
             return "";
